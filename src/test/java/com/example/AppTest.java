@@ -39,9 +39,6 @@ public class AppTest
     {
         assertTrue( true );
     }
-    public void testAppthreee()
-    {
-        assertTrue( true );
-    }
+   
 }
 
