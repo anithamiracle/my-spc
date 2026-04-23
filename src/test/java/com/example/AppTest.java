@@ -39,7 +39,7 @@ public class AppTest
     {
         assertTrue( true );
     }
-    public void testAppthree()
+    public void testAppthreee()
     {
         assertTrue( true );
     }
