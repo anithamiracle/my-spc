@@ -10,8 +10,7 @@ public class App
     {
         int a = 10;
         System.out.println( "Hello World!" );
-        #Statement stmt = conn.createStatement();
-        #ResultSet rs = stmt.executeQuery("SELECT * FROM users WHERE name = '" + input + "'");
+        
         
     }
 }
