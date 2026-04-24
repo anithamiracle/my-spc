@@ -10,7 +10,7 @@ permissions:
   checks: write
   security-events: read   
   pull-requests: write   
-
+  
 jobs:
     build:
         runs-on: ubuntu-latest
